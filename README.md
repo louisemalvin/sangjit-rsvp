@@ -2,7 +2,7 @@
 
 Invitation and embedded RSVP form for Louise and Angelica’s Sangjit and tea ceremony.
 
-- Site: https://louisemalvin.github.io/sangjit-rsvp/
+- Site: https://rsvp.ltanaka.me/
 - RSVP form: https://ltanaka.fillout.com/rsvp
 - Hosting: GitHub Pages, `main` branch, repository root.
 
